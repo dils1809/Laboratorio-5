@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\dilar\\OneDrive\\Desktop\\Semestre 4\\Microprocesadores\\parallel_tasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1F2A377C-6204-4AF5-B636-64B0108F413D}|parallel_tasks\\parallel_tasks.vcxproj|C:\\Users\\dilar\\OneDrive\\Desktop\\Semestre 4\\Microprocesadores\\parallel_tasks\\parallel_tasks\\parallel_tasks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{1F2A377C-6204-4AF5-B636-64B0108F413D}|parallel_tasks\\parallel_tasks.vcxproj|solutionrelative:parallel_tasks\\parallel_tasks.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "parallel_tasks.cpp",
+              "DocumentMoniker": "C:\\Users\\dilar\\OneDrive\\Desktop\\Semestre 4\\Microprocesadores\\parallel_tasks\\parallel_tasks\\parallel_tasks.cpp",
+              "RelativeDocumentMoniker": "parallel_tasks\\parallel_tasks.cpp",
+              "ToolTip": "C:\\Users\\dilar\\OneDrive\\Desktop\\Semestre 4\\Microprocesadores\\parallel_tasks\\parallel_tasks\\parallel_tasks.cpp",
+              "RelativeToolTip": "parallel_tasks\\parallel_tasks.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-30T06:02:52.364Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
